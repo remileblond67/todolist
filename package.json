@@ -1,0 +1,28 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Gestionnaire de tâches en NodeJs",
+  "main": "index.js",
+  "dependencies": {
+      "express": "~4.11.0",
+      "ejs": "~2.1.4",
+      "cookie-session": "~1.1.0",
+      "body-parser": "~1.10.1",
+      "socket.io": "~1.4.5",
+      "ent": "~0.1.0",
+      "bootstrap": "3.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remileblond67/todolist.git"
+  },
+  "author": "Rémi LEBLOND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remileblond67/todolist/issues"
+  },
+  "homepage": "https://github.com/remileblond67/todolist#readme"
+}
